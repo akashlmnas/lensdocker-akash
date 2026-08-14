@@ -1,18 +1,14 @@
 [
   {
     "url": "https://github.com/frappe/erpnext.git",
-    "branch": "v14.11.1"
+    "branch": "v15.101.0"
   },
   {
     "url": "https://github.com/frappe/payments.git",
-    "branch": "develop"
-  }, 
-  {
-    "url": "https://github.com/frappe/hrms.git",
-    "branch": "version-14"
+    "branch": "version-15"
   },
   {
-    "url": "https://github.com/frappe/lms.git",
-    "branch": "main"
-  }
+    "url": "https://github.com/lmnaslimited/lens_pdf-on-submit.git",
+    "branch": "story-US-2026-1363"
+  }  
 ]
