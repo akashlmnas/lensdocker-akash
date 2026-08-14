@@ -5,6 +5,10 @@ on:
     branches:
       - temp-img-build
 
+permissions:
+  contents: read
+  packages: write
+
   workflow_dispatch:
     inputs:
       image:
